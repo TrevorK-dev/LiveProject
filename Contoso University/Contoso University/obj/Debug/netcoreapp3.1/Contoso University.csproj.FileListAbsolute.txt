@@ -1,0 +1,34 @@
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.exe
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.deps.json
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.runtimeconfig.json
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.runtimeconfig.dev.json
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.dll
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.pdb
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.Views.dll
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\bin\Debug\netcoreapp3.1\Contoso University.Views.pdb
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.csprojAssemblyReference.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\staticwebassets\Contoso University.StaticWebAssets.Manifest.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\staticwebassets\Contoso University.StaticWebAssets.xml
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.RazorAssemblyInfo.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.RazorAssemblyInfo.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.AssemblyInfoInputs.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.AssemblyInfo.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.TagHelpers.input.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.TagHelpers.output.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.RazorCoreGenerate.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.RazorTargetAssemblyInfo.cache
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.RazorTargetAssemblyInfo.cs
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.Views.pdb
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.dll
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.pdb
+C:\Users\Laweg\source\repos\Contoso University\Contoso University\obj\Debug\netcoreapp3.1\Contoso University.csproj.CopyComplete
