@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laweg\\source\\repos\\Contoso University\\Contoso University\\Contoso University.csproj": {}
+    "C:\\Users\\Laweg\\OneDrive\\Documents\\GitHub\\LiveProject\\Contoso University\\Contoso University\\Contoso University.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laweg\\source\\repos\\Contoso University\\Contoso University\\Contoso University.csproj": {
+    "C:\\Users\\Laweg\\OneDrive\\Documents\\GitHub\\LiveProject\\Contoso University\\Contoso University\\Contoso University.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laweg\\source\\repos\\Contoso University\\Contoso University\\Contoso University.csproj",
+        "projectUniqueName": "C:\\Users\\Laweg\\OneDrive\\Documents\\GitHub\\LiveProject\\Contoso University\\Contoso University\\Contoso University.csproj",
         "projectName": "Contoso University",
-        "projectPath": "C:\\Users\\Laweg\\source\\repos\\Contoso University\\Contoso University\\Contoso University.csproj",
+        "projectPath": "C:\\Users\\Laweg\\OneDrive\\Documents\\GitHub\\LiveProject\\Contoso University\\Contoso University\\Contoso University.csproj",
         "packagesPath": "C:\\Users\\Laweg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laweg\\source\\repos\\Contoso University\\Contoso University\\obj\\",
+        "outputPath": "C:\\Users\\Laweg\\OneDrive\\Documents\\GitHub\\LiveProject\\Contoso University\\Contoso University\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Laweg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,12 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
